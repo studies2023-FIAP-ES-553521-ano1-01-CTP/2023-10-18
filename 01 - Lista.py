@@ -49,6 +49,7 @@
 # for i in range(len(carros)):
 #     if (carros[i] == carro_selecionado):
 #         indice = i
+#         break
 #
 # print(f'\nModelo: {carro_selecionado}\nPreço: R$ {precos[indice]}\nPotência: {potencias[indice]}\nAno: {anos[indice]}')
 
